@@ -1,0 +1,21 @@
+.footer {
+    background: #0d1e81;
+    padding: 40px;
+    color:white;
+}
+#check{
+    padding: 10px 40px;
+    font-size: 1rem;
+    color: white;
+    background: #0d1e81;
+}
+.form-group input[type='text']{
+    padding: 10px 10px;
+}
+.form-group input[type='password']{
+    padding: 10px 10px;
+}
+.card-body{
+    border-left:2px solid #efeef0;
+    padding-left: 80px;
+}
